@@ -1,7 +1,8 @@
+![image](https://user-images.githubusercontent.com/5853658/127419006-1f78ac6e-06b0-4ffe-89cc-0c9ddd33387b.png)
 
-![image](https://user-images.githubusercontent.com/5853658/127418456-a4fd746b-1d34-4560-b930-e67bf1aa5490.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitramTasu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitramTasu&count_private=true&show_icons=true&bg_color=000000&text_color=1ee300&icon_color=54ab54&title_color=cccfcc)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
