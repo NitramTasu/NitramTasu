@@ -1,5 +1,6 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitramTasu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitramTasu&count_private=true&show_icons=true&bg_color=000000&text_color=1ee300&icon_color=54ab54&title_color=cccfcc)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **NitramTasu/NitramTasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
