@@ -1,8 +1,12 @@
-name: Update readme with blog posts
-on: 
+name: Update this repo's README
+
+on:
   schedule:
     # Once a day at 8 AM
     - cron: 1 * * * *
+  push:
+    branches:
+      - main
 
 jobs:
   update:
@@ -10,7 +14,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://inventordigital.wordpress.com/feed/
-          readme-section: feed
-          max: 10 # max number of items (default 5)
-          template: "#### [{{ title }}]({{ link }}) \n*{{ description }}*\n\n"
+          feed-url: https://jasonet.co/rss.xml
+          readme-section: example
+          branch: main
