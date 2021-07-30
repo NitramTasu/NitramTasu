@@ -8,7 +8,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: JasonEtco/rss-to-readme@v1.2.6
         with:
           feed-url: https://inventordigital.wordpress.com/feed/
           readme-section: feed
