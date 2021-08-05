@@ -6,6 +6,8 @@
 
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
+#### [Criando mapas utilizando Leaflet via CDN em um projeto React](https:&#x2F;&#x2F;inventordigital.wordpress.com&#x2F;2021&#x2F;08&#x2F;04&#x2F;criando-mapas-utilizando-leaflet-via-cdn-em-um-projeto-react&#x2F;) 
+**
 #### [ReactiveX: Descomplicando a programação reativa](https:&#x2F;&#x2F;inventordigital.wordpress.com&#x2F;2017&#x2F;02&#x2F;04&#x2F;reactivex-descomplicando-a-programacao-reativa&#x2F;) 
 **
 <!--END_SECTION:feed-->
